@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Folio PDF</string>
+    <string name="studio_subtitle">READER • VIEWER • EDITOR</string>
+    <string name="search_documents_hint">Search PDF titles, categories…</string>
+    <string name="action_import_pdf">Import PDF</string>
+    <string name="action_create_pdf">New PDF</string>
+    <string name="action_merge_pdfs">Merge PDFs</string>
+    <string name="action_export_pdf">Export PDF</string>
+    <string name="action_flatten_pdf">Flatten &amp; Save</string>
+    <string name="tab_library">Library</string>
+    <string name="tab_favorites">Starred</string>
+    <string name="tab_bookmarks">Bookmarks</string>
+    <string name="tab_tools">PDF Studio</string>
+    <string name="mode_read">Reader</string>
+    <string name="mode_annotate">Editor</string>
+    <string name="mode_pages">Pages</string>
+    <string name="tool_pan">Pan &amp; Zoom</string>
+    <string name="tool_pen">Ink Pen</string>
+    <string name="tool_highlighter">Highlighter</string>
+    <string name="tool_text">Text Note</string>
+    <string name="tool_stamp">Stamp</string>
+    <string name="tool_signature">Signature</string>
+    <string name="tool_eraser">Eraser</string>
+    <string name="empty_library_title">No PDF documents match</string>
+    <string name="empty_library_subtitle">Create a new PDF, import from device storage, or reset your search filters.</string>
+    <string name="bookmarks_empty_title">No bookmarks saved yet</string>
+    <string name="bookmarks_empty_subtitle">Tap the ribbon icon while reading any PDF page to save a quick-jump bookmark.</string>
+</resources>
